@@ -1291,5 +1291,20 @@
     "sha512": "ce5794daa1db129018229d15a4c7340ff2181fdf1374a6c17b7209d2d4a9c48edd7de747298eed5ce6e4862cb7cb706feaf0dc58155984b64bdc02c3f70ff5fc",
     "otaHeaderString": "RBSH-TRV0-ZB-EU\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
     "modelId": "RBSH-TRV0-ZB-EU"
+  },
+  {
+    "fileName": "jethome_zigbee_release_13_zigbee.ota.zigbee",
+    "fileVersion": 13,
+    "fileSize": 160226,
+    "originalUrl": "https://fw.jethome.ru/media/firmwares/jethome/zigbee/release/13/jethome_zigbee_release_13_zigbee.ota.zigbee",
+    "url": "https://github.com/Koenkk/zigbee-OTA/raw/master/images1/JetHome/jethome_zigbee_release_13_zigbee.ota.zigbee",
+    "imageType": 61441,
+    "manufacturerCode": 61731,
+    "sha512": "d2d185fc25b28d8e5ed4323550e630e5ada864add2bafc805b07113d9df9c95b7c37047e535784c0277f4fd5e9d9f06d91a558e4fc2a04080b2d85f9a1999a19",
+    "otaHeaderString": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+    "manufacturerName": [
+      "JetHome"
+    ],
+    "releaseNotes": "https://fw.jethome.ru/devices/jethome/WS7/fw/release/latest/CHANGELOG.md"
   }
 ]
